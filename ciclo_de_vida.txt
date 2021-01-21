@@ -1,0 +1,8 @@
+                    --------------------Tracked----------------------
+Untracked ---------> Unmodified ---------> Modified ---------> Staged
+
+Tracked: Arquivos rastreados pelo GIT
+Untracked: Arquivos não rastreados pelo GIT
+Unmodified: Arquivo criado porem não modificado
+Modified: Arquivo modificado/alterado
+Staged: Arquivos preparados para juntar a outros agrupamentos
