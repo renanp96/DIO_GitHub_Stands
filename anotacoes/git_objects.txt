@@ -1,0 +1,3 @@
+Blobs - Contem os metadados dos arquivos, contento o tipo do objeto, o tipo e o conteudo dos arquivos.
+Trees - Armazenam os blocos basicos (Blobs) e os seus metadados e identificadores.
+Commits - Junta todos os arquivos Trees e Blobs. Assim como todos os outros arquivos, os commits possuem um SHA1 na sua criptografia.
